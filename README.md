@@ -11,6 +11,7 @@ This repository is a complete Pandas guide for beginners, taking you from zero t
 - ✅ Data loading and cleaning
 - ✅ Data transformation and aggregation
 - ✅ Exploratory data analysis
+- ✅ Data Visualization
 
 
 ## ⚙️ Requirements
